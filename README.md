@@ -15,7 +15,7 @@ Docente: Dr. José Luis Medina Jiménez <br>
 2. [Práctica 02 - Captura y desplegado de mensajes](./02%20-%20captura%20y%20desplegado%20de%20mensajes/02%20-%20captura%20y%20desplegado%20de%20mensajes/main.asm)
 3. [Práctica 03 - Comparación y prueba](./03%20-%20comparacion%20y%20prueba/03%20-%20comparacion%20y%20prueba/main.asm)
 4. [Práctica 04 - Saltos](./04%20-%20saltos/04%20-%20saltos/main.asm)
-   - [Práctica 04.1 - Mayor, menor o igual con entrada del usuario](./04.1%20-%20Mayor,%20menor%20o%20igual%20con%20entrada%20del%20usuario/04.1%20-%20Mayor,%20menor%20o%20igual%20con%20entrada%20del%20usuario/main.asm)
+   - [Práctica 04.1 - Mayor, menor o igual con entrada del usuario](./04.1%20-%20mayor,%20menor%20o%20igual%20con%20entrada%20del%20usuario/04.1%20-%20mayor,%20menor%20o%20igual%20con%20entrada%20del%20usuario/main.asm)
 5. [Práctica 05 - Condicionales](./05%20-%20condicionales/05%20-%20condicionales/main.asm)
    - [Práctica 05.1 - Repetir hasta que el usuario ingrese cero](./05.1%20-%20repetir%20hasta%20que%20el%20usuario%20ingrese%20cero/05.1%20-%20repetir%20hasta%20que%20el%20usuario%20ingrese%20cero/main.asm)
 6. [Práctica 06 - Decremento e incremento](./06%20-%20decremento%20e%20incremento/06%20-%20decremento%20e%20incremento/main.asm)
