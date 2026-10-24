@@ -24,7 +24,7 @@ Docente: Dr. José Luis Medina Jiménez <br>
 8. [Práctica 08 - Operaciones aritméticas](./08%20-%20operaciones%20aritmeticas/08%20-%20operaciones%20aritmeticas/main.asm)
 9. [Práctica 09 - PUSH y POP](./09%20-%20push%20y%20pop/09%20-%20push%20y%20pop/main.asm)
 10. [Práctica 10 - Obtención de una cadena decimal](./10%20-%20obtención%20de%20una%20cadena%20decimal/10%20-%20obtención%20de%20una%20cadena%20decimal/main.asm)
-11. [Práctica 11 - Operaciones lógicas](./11%20-%20operaciones%20logicas/11%20-%operaciones%20logicas/main.asm)
+11. [Práctica 11 - Operaciones lógicas](./11%20-%20operaciones%20logicas/11%20-%20operaciones%20logicas/main.asm)
 12. [Práctica 12 - Desplazamiento y rotación](./12%20-%20desplazamiento%20y%20rotacion/12%20-%20desplazamiento%20y%20rotacion/main.asm)
 13. [Práctica 13 - Obtención de una cadena hexadecimal](./13%20-%20obtencion%20de%20una%20cadena%20hexadecimal/13%20-%20obtencion%20de%20una%20cadena%20hexadecimal/main.asm)
 14. [Práctica 14 - Captura y almacenamiento de datos numéricos](./14%20-%20captura%20y%20almacenamiento%20de%20datos%20numéricos/14%20-%20captura%20y%20almacenamiento%20de%20datos%20numéricos/main.asm)
