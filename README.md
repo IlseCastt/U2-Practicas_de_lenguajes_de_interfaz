@@ -9,7 +9,7 @@ Alumna: Ilse Marianne Castillo Pimienta - 23170117 <br>
 Horario: 8:00 - 9:00am <br>
 Docente: Dr. José Luis Medina Jiménez <br>
 
-## Índice de Prácticas
+## Índice de prácticas
 
 1. [Práctica 01 - Ciclos numéricos](./01%20-%20ciclos%20numericos/01%20-%20ciclos%20numericos/main.asm)
 2. [Práctica 02 - Captura y desplegado de mensajes](./02%20-%20captura%20y%20desplegado%20de%20mensajes/02%20-%20captura%20y%20desplegado%20de%20mensajes/main.asm)
