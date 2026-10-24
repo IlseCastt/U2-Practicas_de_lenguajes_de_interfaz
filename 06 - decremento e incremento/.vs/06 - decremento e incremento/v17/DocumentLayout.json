@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicas_github\\06 - decremento e incremento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FC4E45F-869D-4FE7-B1DE-0028C3E2C2D6}|06 - decremento e incremento\\06 - decremento e incremento.vcxproj|C:\\lenguajesInterfaz\\practicas_github\\06 - decremento e incremento\\06 - decremento e incremento\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FC4E45F-869D-4FE7-B1DE-0028C3E2C2D6}|06 - decremento e incremento\\06 - decremento e incremento.vcxproj|solutionrelative:06 - decremento e incremento\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicas_github\\06 - decremento e incremento\\06 - decremento e incremento\\main.asm",
+              "RelativeDocumentMoniker": "06 - decremento e incremento\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicas_github\\06 - decremento e incremento\\06 - decremento e incremento\\main.asm",
+              "RelativeToolTip": "06 - decremento e incremento\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-23T20:09:52.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

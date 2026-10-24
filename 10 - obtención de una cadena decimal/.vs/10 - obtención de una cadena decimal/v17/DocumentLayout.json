@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicas_github\\10 - obtenci\u00F3n de una cadena decimal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB0A5D-69DA-4138-A59C-11EC298A2386}|10 - obtenci\u00F3n de una cadena decimal\\10 - obtenci\u00F3n de una cadena decimal.vcxproj|C:\\lenguajesInterfaz\\practicas_github\\10 - obtenci\u00F3n de una cadena decimal\\10 - obtenci\u00F3n de una cadena decimal\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3BCB0A5D-69DA-4138-A59C-11EC298A2386}|10 - obtenci\u00F3n de una cadena decimal\\10 - obtenci\u00F3n de una cadena decimal.vcxproj|solutionrelative:10 - obtenci\u00F3n de una cadena decimal\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicas_github\\10 - obtenci\u00F3n de una cadena decimal\\10 - obtenci\u00F3n de una cadena decimal\\main.asm",
+              "RelativeDocumentMoniker": "10 - obtenci\u00F3n de una cadena decimal\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicas_github\\10 - obtenci\u00F3n de una cadena decimal\\10 - obtenci\u00F3n de una cadena decimal\\main.asm",
+              "RelativeToolTip": "10 - obtenci\u00F3n de una cadena decimal\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-23T21:48:11.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

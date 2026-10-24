@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicas_github\\15 - manipulacion de archivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97D7CC00-6B4C-4343-8D39-CE5BB5BFD320}|15 - manipulacion de archivos\\15 - manipulacion de archivos.vcxproj|C:\\lenguajesInterfaz\\practicas_github\\15 - manipulacion de archivos\\15 - manipulacion de archivos\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97D7CC00-6B4C-4343-8D39-CE5BB5BFD320}|15 - manipulacion de archivos\\15 - manipulacion de archivos.vcxproj|solutionrelative:15 - manipulacion de archivos\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicas_github\\15 - manipulacion de archivos\\15 - manipulacion de archivos\\main.asm",
+              "RelativeDocumentMoniker": "15 - manipulacion de archivos\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicas_github\\15 - manipulacion de archivos\\15 - manipulacion de archivos\\main.asm*",
+              "RelativeToolTip": "15 - manipulacion de archivos\\main.asm*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T04:53:36.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

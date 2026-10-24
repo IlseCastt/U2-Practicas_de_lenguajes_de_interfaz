@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicas_github\\04.1 - mayor, menor o igual con entrada del usuario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7C2C3C-7FA0-4984-9029-C5AF546B2C80}|04.1 - mayor, menor o igual con entrada del usuario\\04.1 - mayor, menor o igual con entrada del usuario.vcxproj|C:\\lenguajesInterfaz\\practicas_github\\04.1 - mayor, menor o igual con entrada del usuario\\04.1 - mayor, menor o igual con entrada del usuario\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8E7C2C3C-7FA0-4984-9029-C5AF546B2C80}|04.1 - mayor, menor o igual con entrada del usuario\\04.1 - mayor, menor o igual con entrada del usuario.vcxproj|solutionrelative:04.1 - mayor, menor o igual con entrada del usuario\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicas_github\\04.1 - mayor, menor o igual con entrada del usuario\\04.1 - mayor, menor o igual con entrada del usuario\\main.asm",
+              "RelativeDocumentMoniker": "04.1 - mayor, menor o igual con entrada del usuario\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicas_github\\04.1 - mayor, menor o igual con entrada del usuario\\04.1 - mayor, menor o igual con entrada del usuario\\main.asm",
+              "RelativeToolTip": "04.1 - mayor, menor o igual con entrada del usuario\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-23T19:18:25.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

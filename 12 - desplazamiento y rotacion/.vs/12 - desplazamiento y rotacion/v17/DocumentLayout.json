@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicas_github\\12 - desplazamiento y rotacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14893C6F-145A-4643-A1E4-36A9E43767D3}|12 - desplazamiento y rotacion\\12 - desplazamiento y rotacion.vcxproj|C:\\lenguajesInterfaz\\practicas_github\\12 - desplazamiento y rotacion\\12 - desplazamiento y rotacion\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{14893C6F-145A-4643-A1E4-36A9E43767D3}|12 - desplazamiento y rotacion\\12 - desplazamiento y rotacion.vcxproj|solutionrelative:12 - desplazamiento y rotacion\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicas_github\\12 - desplazamiento y rotacion\\12 - desplazamiento y rotacion\\main.asm",
+              "RelativeDocumentMoniker": "12 - desplazamiento y rotacion\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicas_github\\12 - desplazamiento y rotacion\\12 - desplazamiento y rotacion\\main.asm",
+              "RelativeToolTip": "12 - desplazamiento y rotacion\\main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-23T23:06:58.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

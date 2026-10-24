@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\lenguajesInterfaz\\practicas_github\\14 - captura y almacenamiento de datos num\u00E9ricos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75495658-4468-4297-B583-8B1531DA3155}|14 - captura y almacenamiento de datos num\u00E9ricos\\14 - captura y almacenamiento de datos num\u00E9ricos.vcxproj|C:\\lenguajesInterfaz\\practicas_github\\14 - captura y almacenamiento de datos num\u00E9ricos\\14 - captura y almacenamiento de datos num\u00E9ricos\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{75495658-4468-4297-B583-8B1531DA3155}|14 - captura y almacenamiento de datos num\u00E9ricos\\14 - captura y almacenamiento de datos num\u00E9ricos.vcxproj|solutionrelative:14 - captura y almacenamiento de datos num\u00E9ricos\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\lenguajesInterfaz\\practicas_github\\14 - captura y almacenamiento de datos num\u00E9ricos\\14 - captura y almacenamiento de datos num\u00E9ricos\\main.asm",
+              "RelativeDocumentMoniker": "14 - captura y almacenamiento de datos num\u00E9ricos\\main.asm",
+              "ToolTip": "C:\\lenguajesInterfaz\\practicas_github\\14 - captura y almacenamiento de datos num\u00E9ricos\\14 - captura y almacenamiento de datos num\u00E9ricos\\main.asm*",
+              "RelativeToolTip": "14 - captura y almacenamiento de datos num\u00E9ricos\\main.asm*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-24T04:24:31.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
