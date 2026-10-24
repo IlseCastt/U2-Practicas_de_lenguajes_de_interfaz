@@ -26,6 +26,6 @@ Docente: Dr. José Luis Medina Jiménez <br>
 10. [Práctica 10 - Obtención de una cadena decimal](./10%20-%20obtención%20de%20una%20cadena%20decimal/10%20-%20obtención%20de%20una%20cadena%20decimal/main.asm)
 11. [Práctica 11 - Operaciones lógicas](./11%20-%20operaciones%20logicas/11%20-%20operaciones%20logicas/main.asm)
 12. [Práctica 12 - Desplazamiento y rotación](./12%20-%20desplazamiento%20y%20rotacion/12%20-%20desplazamiento%20y%20rotacion/main.asm)
-13. [Práctica 13 - Obtención de una cadena hexadecimal](./13%20-%20obtencion%20de%20una%20cadena%20hexadecimal/13%20-%20obtencion%20de%20una%20cadena%20hexadecimal/main.asm)
+13. [Práctica 13 - Obtención de una cadena hexadecimal](./13%20-%20Obtención%20de%20una%20cadena%20hexadecimal/13%20-%20Obtención%20de%20una%20cadena%20hexadecimal/main.asm)
 14. [Práctica 14 - Captura y almacenamiento de datos numéricos](./14%20-%20captura%20y%20almacenamiento%20de%20datos%20numéricos/14%20-%20captura%20y%20almacenamiento%20de%20datos%20numéricos/main.asm)
 15. [Práctica 15 - Manipulación de archivos](./15%20-%20manipulacion%20de%20archivos/15%20-%20manipulacion%20de%20archivos/main.asm)
